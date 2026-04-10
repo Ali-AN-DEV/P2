@@ -1,10 +1,10 @@
 /*
 * TITLE: PROGRAMMING II LABS
  * SUBTITLE: Practical 2
- * AUTHOR 1: ***************************** LOGIN 1: **********
- * AUTHOR 2: ***************************** LOGIN 2: **********
- * GROUP: *.*
- * DATE: ** / ** / **
+ * AUTHOR 1: Ali Abu-afash Nayef LOGIN 1: ali.nayef@udc.es
+ * AUTHOR 2: Isabel Mª Teijido Bernal LOGIN 2: isabel.teijido@udc.es
+ * GROUP: 4.2
+ * DATE: 03 / 06 / 26
  */
 
 #include <stdio.h>
